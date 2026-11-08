@@ -7,10 +7,10 @@ A feature-rich desktop implementation of the classic **Ludo** board game built i
 ## 📸 Preview
 
 <div align="center">
-  <img src="assets/screenshot.png" alt="Ludo Game GUI Screenshot" width="600px">
+  <img src="assets/Screenshot.png" alt="Ludo Game GUI Screenshot" width="600px">
 </div>
 
-*(Note: Place your screenshot in an `assets/` folder or adjust the image path above accordingly!)*
+
 
 ---
 
